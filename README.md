@@ -26,4 +26,4 @@ To Install the app, just search for the APK file in the root directory. You mayb
 
 ## Edit the project
 
-In order to open and edit the repository, you'll need to install Unity version 2019.1.7f1 first!
+In order to open and edit the repository, you'll need to install Unity version 2019.1.7f1 first! Scripts/C#-Code can be found in the assets folder!
